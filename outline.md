@@ -12,8 +12,10 @@ profile:
     -star-reward
     -league-cup
     -last-login
+    -join-at
     -reagon
     -achivement
+    -statues
 
 
 
@@ -26,7 +28,7 @@ profile:
 
 
 
-settings:
+Settings:
     
 
     -link_with_google
@@ -49,7 +51,7 @@ AttackArchive:
     -replay
 
 
-attack_info:
+Replays:
 
     -striker
     -attackarchive
@@ -64,7 +66,7 @@ attack_info:
     -damage
 
 
-actions:
+Actions:
     -type
     -date
     -unit
@@ -95,7 +97,7 @@ DarkVillage:
     
 
 
-resorses:
+Resorses:
 
     -account
     #(all of them is files contains total res then the amount of it in every building)
@@ -117,7 +119,7 @@ resorses:
     
 
 
-league:
+League:
 
     -league_rewards
     -league_range
@@ -130,7 +132,7 @@ league:
     -get_league_champions
 
 
-achivement:
+Achivement:
 
     -title
     -discription
@@ -139,7 +141,7 @@ achivement:
     -get_achivement_list
 
 
-statues:
+Statues:
 
     -join_date
     -total_distroyed_buildings
@@ -206,7 +208,7 @@ ClansCapital:
 
 
 
-shop:
+Shop:
 
     -id
     -prize
@@ -218,7 +220,7 @@ shop:
     git_prize_list
 
 
-seasson:
+Seasson:
 
     -point_gained
     -static_missions
@@ -238,7 +240,7 @@ seasson:
     -buy_season
 
 
-event:
+Event:
 
     -title
     -discription
